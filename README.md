@@ -1,7 +1,3 @@
 # Data-Visualisation
-1.Policies and Procedures explenation
-
-2.Excel Data set analysed and cleansed
-
-3.Tableu Dashboard explaining the data
+![alt text](https://github.com/Aabazay/Data-Visualisation/blob/2e8d727011e94ecaa680d8197d7e6f0cfd15f5cc/Wealth%20of%20Nation.png)
 
