@@ -1,3 +1,3 @@
 # Data-Visualisation
-![alt text](https://github.com/Aabazay/Data-Visualisation/blob/2e8d727011e94ecaa680d8197d7e6f0cfd15f5cc/Wealth%20of%20Nation.png)
+![alt text](https://github.com/Aabazay/Data-Visualisation/blob/2cf6dead81483ea02ec82f36b8058e9e25e4b54c/Wealth%20of%20Nation%20Tableu.png)
 
