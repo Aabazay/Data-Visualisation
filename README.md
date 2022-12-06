@@ -1,4 +1,7 @@
 # Data-Visualisation
-Policies and Procedures explenation
-Excel Data set analysed and cleansed
-Tableu Dashboard explaining the data
+1.Policies and Procedures explenation
+
+2.Excel Data set analysed and cleansed
+
+3Tableu Dashboard explaining the data
+
