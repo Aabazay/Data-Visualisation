@@ -11,6 +11,7 @@
 What are the rights of consumers in terms of their data? The right to erasure, the right to restrict processing, the right to data portability and the right to object.
 
 I think those Policies and Procedures explained above are the most important ones when dealing with Data ‘Wealth of Nations’. It’s a Data set that contains information about capitol of certain Countries and it’s important to keep that safe, but any Data given to us by customers need to be protected. 
+
 -----------------------------------
 
 Step one of my assignments to protect the workbook so anyone looking into the workbook cannot alter the information.
@@ -24,6 +25,7 @@ Step eight is to create a sort for the top 20 highest ranking countries.
 Step nine is to create a new Bar chart to display the 20 highest ranking countries displaying the table and chart underneath. I have followed the same step as before, highlighting the data then using the Recommended Charts option.
 Step ten is to fill the background with a colour. I have right clicked on the background then used the fill in option to choose the desired colour, I have chosen light blue. 
 Step 11 is to create three macro buttons (Print, Save, Copy). I have done this by creating 3 desired shapes and recording the macros step by step then assigning them to the correct shapes.
+
 --------------------------------
 
 I have now created a dashboard using Tableu. 
