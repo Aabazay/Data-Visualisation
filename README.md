@@ -14,25 +14,33 @@ I think those Policies and Procedures explained above are the most important one
 
 -----------------------------------
 
-Step one of my assignments to protect the workbook so anyone looking into the workbook cannot alter the information.
-Step two is to highlight the C column and change currency from $ to £. 
-Step three is to turn the GDP sheet into table, I have also added the option to filter the data.
-Step four is to filter the data to show only year 2019. I have clicked onto the filter option and deselected all the years apart from 2019.
-Step five is to create a chart that displays the Rank, Country, and GDP-per capita (PPP), To do this I have selected all the Data and pressed on Insert, then used the Recommended Charts option and chose the desired chart.
-Step six is to edit the chart created. I have used the options available to edit the chart after double clicking onto the chart.
-Step seven is to move the chart to a new sheet tab and label with a suitable name. I have right clicked on the chart and used the Copy option. Then I have opened a new sheet and pasted it there. To rename the sheet I have right clicked on the new sheet tab and chose the Rename option.    
-Step eight is to create a sort for the top 20 highest ranking countries.
-Step nine is to create a new Bar chart to display the 20 highest ranking countries displaying the table and chart underneath. I have followed the same step as before, highlighting the data then using the Recommended Charts option.
-Step ten is to fill the background with a colour. I have right clicked on the background then used the fill in option to choose the desired colour, I have chosen light blue. 
-Step 11 is to create three macro buttons (Print, Save, Copy). I have done this by creating 3 desired shapes and recording the macros step by step then assigning them to the correct shapes.
+Step one of my assignment was to protect the workbook so anyone looking into the workbook cannot alter the information.
+
+Step two was to highlight the C column and change currency from $ to £. 
+
+Step three was to turn the GDP sheet into table, I have also added the option to filter the data.
+
+Step four was to filter the data to show only year 2019. I have clicked onto the filter option and deselected all the years apart from 2019.
+
+Step five was to create a chart that displays the Rank, Country, and GDP-per capita (PPP), To do this I have selected all the Data and pressed on Insert, then used the Recommended Charts option and chose the desired chart.
+
+Step six was to edit the chart created. I have used the options available to edit the chart after double clicking onto the chart.
+
+Step seven was to move the chart to a new sheet tab and label with a suitable name. I have right clicked on the chart and used the Copy option. Then I have opened a new sheet and pasted it there. To rename the sheet I have right clicked on the new sheet tab and chose the Rename option.    
+
+Step eight was to create a sort for the top 20 highest ranking countries.
+
+Step nine was to create a new Bar chart to display the 20 highest ranking countries displaying the table and chart underneath. I have followed the same step as before, highlighting the data then using the Recommended Charts option.
+
+Step ten was to fill the background with a colour. I have right clicked on the background then used the fill in option to choose the desired colour, I have chosen light blue. 
+
+Step eleven was to create three macro buttons (Print, Save, Copy). I have done this by creating 3 desired shapes and recording the macros step by step then assigning them to the correct shapes.
 
 --------------------------------
 
-I have now created a dashboard using Tableu. 
-Using the Excel data provided I have uploaded the data onto Tableu, I have set the relationship between the sheets as Country equals Country, because that’s what they have all had in common. 
+I have then created a dashboard on Tableu using the Excel data provided. I have uploaded the data onto Tableu, I have set the relationship between the sheets as Country equals Country, because that’s what they have all had in common. 
 I have then created five different graphs and two maps to allow the client to see the Data in a visual that’s easy to read. I have applied filter to make sure only top 20 ranked Countries are displayed. I have then created a dashboard that is going to be shown to the client, I have uploaded four charts and a map that in my opinion are the best way to explain the Data to the client. 
 
-
-During this assignment I have not experienced diffulties, it was pretty straight forward.
+During this assignment I have not experienced diffulties, it was pretty straight forward and I enjoyed creating the dashboard using different visuals to.
 
 
